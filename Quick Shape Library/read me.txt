@@ -1,0 +1,16 @@
+1. Paste the folder (Quick Shape Library) in C:\Program Files\Xournal++\share\xournalpp\plugins
+2. paste the icon (shapes_symbolic)  in C:\Program Files\Xournal++\share\icons\Adwaita\symbolic\actions
+3. make sure the folder-path is correct in the quick_shape_library.lua file
+
+    ((-- Getting folder Path (You may adjust the folder-path)
+            local folderpathGeometric_2D = "C:\\Program Files\\Xournal++\\share\\xournalpp\\plugins\\Quick Shape Library\\Shapes\\Geometric_2D\\"
+            local folderpathGeometric_3D = "C:\\Program Files\\Xournal++\\share\\xournalpp\\plugins\\Quick Shape Library\\Shapes\\Geometric_3D\\"
+            local folderpathAxixSystem = "C:\\Program Files\\Xournal++\\share\\xournalpp\\plugins\\Quick Shape Library\\Shapes\\Axix_System\\"
+            local folderpathGraphs = "C:\\Program Files\\Xournal++\\share\\xournalpp\\plugins\\Quick Shape Library\\Shapes\\Graphs\\"))
+4. In Xournal++ app, go to customize toolbars>Plugins, and place the icon at a suitable place
+5. use
+
+
+--- coming: ability to add your own shape, till then share your idea.
+
+

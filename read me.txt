@@ -1,0 +1,20 @@
+Quick Shape Library along with Extract Stroke Info:
+
+1. Place the folder (Quick Shape Library) in C:\Users\your user name\AppData\Local\xournalpp\plugins
+	AppData folder may be hidden.
+2. Place the icons ("shapes_symbolic" and "extract-info-symbolic")  in C:\Program Files\Xournal++\share\icons\Adwaita\symbolic\actions
+3. In Xournal++ app, go to customize toolbars>Plugins, and place the icons at a suitable place
+4. use it.
+
+Add your own shape with Extract Stroke Info:
+
+1. Draw your own Shapes. Place it on the left corner (because the shape will be inserted at the same point and if the page be smaller than
+ the current you may not be able to see the inserted shapes)
+2. Select your shape and just hit the "ESI" icon or select the plugin from plugin menu.
+3. Your shape is saved at the plugin folder, name: giveMeName_and_placeMe_in_shapesFolder.lua
+4. Just rename it and place it in the "Shapes" subfolder 
+5. Now little bit coding: open "quick_shape_library.lua" in code editor, focus on "The dictionary for shapes ", you will understand everything
+
+Dont forget to share your unique shapes with us!
+
+

@@ -5,6 +5,7 @@
 
 1. **Place the folder** (`Quick Shape Library`) in:
    - `C:\Users\<user>\AppData\Local\xournalpp\plugins\` on Windows
+   - `~/.config/xournalpp/plugins/` on Linux
    - *Note: The `AppData` folder may be hidden.*
 
 3. **Place the icons** (`shapes_symbolic` and `extract-info-symbolic`) in:

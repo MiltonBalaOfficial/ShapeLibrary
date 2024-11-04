@@ -3,12 +3,15 @@
 
 ### Installation Steps
 
-1. **Place the folder** (`Quick Shape Library`) in: `C:\Users\<user>\AppData\Local\xournalpp\plugins\` on Windows
+1. **Place the folder** (`Quick Shape Library`) in:
+   - `C:\Users\<user>\AppData\Local\xournalpp\plugins\` on Windows
    - *Note: The `AppData` folder may be hidden.*
 
-3. **Place the icons** (`shapes_symbolic` and `extract-info-symbolic`) in: `C:\Program Files\Xournal++\share\icons\Adwaita\symbolic\actions` on windows, `~/.local/share/icons/hicolor/scalable/actions/` on Linux
+3. **Place the icons** (`shapes_symbolic` and `extract-info-symbolic`) in:
+   - `C:\Program Files\Xournal++\share\icons\hicolor\scalable\actions` on windows,
+   - `~/.local/share/icons/hicolor/scalable/actions/` on Linux
 
-4. **In the Xournal++ app**:
+5. **In the Xournal++ app**:
 - Go to `Customize Toolbars` > `Plugins`, and place the icons at a suitable location.
 
 4. **Use the plugin** as needed.

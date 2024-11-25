@@ -40,3 +40,6 @@ Quick Shape Library for inserting predefined shapes into a Xournal++ document vi
 ## Share Your Shapes!
 Don't forget to share your unique shapes with us!
 
+## If anyone wants to support
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/miltonbala)
+
